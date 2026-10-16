@@ -1,0 +1,89 @@
+DeskNav 专有软件许可协议
+DeskNav Proprietary Software License
+
+版权所有 (c) 2026 Finnley。保留所有权利。
+Copyright (c) 2026 Finnley. All rights reserved.
+
+================================================================
+中文
+================================================================
+
+一、许可范围
+
+在您遵守本协议全部条款的前提下，版权持有人授予您一项非独占、不可转让的许可，允许您：
+
+1. 下载、安装并在您本人使用的设备上运行本软件（安装包形式）；
+2. 在您所属组织内部，为内部业务目的安装并使用本软件；
+3. 为备份目的复制本软件的安装包。
+
+二、限制
+
+未经版权持有人事先书面许可，您不得：
+
+1. 以任何形式再分发、发布、出租、出借、销售本软件或其安装包，无论是否收取费用；
+2. 对本软件进行反向工程、反编译、反汇编，或试图获取其源代码；
+3. 修改、翻译、改编本软件，或基于本软件创作衍生作品；
+4. 移除、遮蔽或篡改本软件中的版权声明、作者署名或其他权利标识；
+5. 将本软件用于违反中华人民共和国法律法规或您所在司法辖区法律的用途。
+
+三、源代码
+
+本软件为专有软件，**源代码不公开**。本协议不授予您任何对源代码的权利。本仓库仅用于发布软件说明与安装包。
+
+四、第三方组件
+
+本软件包含若干开源第三方组件，各组件依其自身许可条款授权。相关版权声明与许可条款归属于各自权利人。
+
+五、免责声明
+
+本软件按「现状」提供，不附带任何形式的明示或默示担保，包括但不限于对适销性、特定用途适用性及不侵权的担保。在任何情况下，版权持有人均不对因使用或无法使用本软件而产生的任何直接、间接、附带、特殊或后果性损害承担责任。
+
+六、协议终止
+
+您违反本协议任一条款时，本许可自动终止，您应立即停止使用并删除本软件的全部副本。
+
+七、其他
+
+本协议适用中华人民共和国法律。如本协议任何条款被认定为无效或不可执行，其余条款仍完全有效。
+
+================================================================
+English
+================================================================
+
+1. Grant of License
+
+Subject to your compliance with all terms of this Agreement, the copyright holder grants you a non-exclusive, non-transferable license to:
+
+1. download, install and run this software (in installer form) on devices you personally use;
+2. install and use this software within your organization for internal business purposes;
+3. copy the installer for backup purposes.
+
+2. Restrictions
+
+Without the prior written permission of the copyright holder, you may NOT:
+
+1. redistribute, publish, rent, lend or sell this software or its installer, in any form, with or without charge;
+2. reverse engineer, decompile or disassemble this software, or attempt to derive its source code;
+3. modify, translate or adapt this software, or create derivative works based on it;
+4. remove, obscure or alter any copyright notice, author attribution or other proprietary marking in this software;
+5. use this software for any purpose that violates the laws of the People's Republic of China or of your jurisdiction.
+
+3. Source Code
+
+This is proprietary software. **The source code is not public.** This Agreement grants you no rights to the source code. This repository is used solely to publish the software description and installers.
+
+4. Third-Party Components
+
+This software includes open-source third-party components, each licensed under its own terms. All related copyright notices and license terms belong to their respective owners.
+
+5. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING FROM THE USE OR INABILITY TO USE THIS SOFTWARE.
+
+6. Termination
+
+This license terminates automatically upon any breach of these terms, and you must immediately cease use and delete all copies of this software.
+
+7. Miscellaneous
+
+This Agreement is governed by the laws of the People's Republic of China. If any provision is held invalid or unenforceable, the remaining provisions remain in full force.
