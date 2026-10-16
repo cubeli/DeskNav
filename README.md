@@ -4,6 +4,10 @@
 
 [中文](#中文) | [English](#english)
 
+<p align="center">
+  <img src="docs/screenshot-main.png" width="860" alt="DeskNav 主界面截图（深色主题 · 工具页）">
+</p>
+
 ---
 
 ## 中文
